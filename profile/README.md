@@ -5,9 +5,9 @@ We are a 🇫🇷 developers and hacking company.
 We're creating user privacy and security focused softwares solutions
 
 ## Sub-projects
-| name              | link                                     | description                                                              |
-|-------------------|------------------------------------------|--------------------------------------------------------------------------|
-| d3m0n project     | [d3m0n.4re5.com](https://d3m0n.4re5.com) | Modular hardware built for hackers, makers, and privacy enthusiasts.     |
+| name              | link                                     | github                                             | description                                                              |
+|-------------------|------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------|
+| d3m0n project     | [d3m0n.4re5.com](https://d3m0n.4re5.com) | [d3m0n-project](https://github.com/d3m0n-project/) | Modular hardware built for hackers, makers, and privacy enthusiasts.     |
 
 ---
 
