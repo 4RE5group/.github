@@ -1,3 +1,3 @@
 # 4re5 group
 
-website: https://4re5team.github.io
+website: https://4re5group.github.io
